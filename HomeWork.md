@@ -45,11 +45,11 @@ vm.dirty_background_ratio
 ***
 Задание 1
 
-![Задание1](FOTO\1.png)
+![Задание1](https://github.com/Veritas97/Prac5Osis/blob/main/FOTO/1.png)
 ***
 Задание 2
 
-![Задание2](FOTO\2.png)
+![Задание2](https://github.com/Veritas97/Prac5Osis/blob/main/FOTO/2.png)
 ***
 Задание 3
 ~~~
@@ -64,7 +64,7 @@ systemctl restart
 
 systemctl status "наименование демона"
 ~~~
-![Задание3](FOTO\4.png)
+![Задание3](https://github.com/Veritas97/Prac5Osis/blob/main/FOTO/4.png)
 ***
 Задание 4
 
@@ -90,7 +90,7 @@ Systemd – это система инициализации и системны
 ~~~
 ***
 Задание 5
-![Задание5](FOTO\3.png)
+![Задание5](https://github.com/Veritas97/Prac5Osis/blob/main/FOTO/3.png)
 
 ~~~
 udisks2.service
@@ -128,5 +128,5 @@ journalctl -f
 
 * sudo systemctl list-unit-files --type=service
 
-![Задание7](FOTO\5.png)
+![Задание7](https://github.com/Veritas97/Prac5Osis/blob/main/FOTO/5.png)
 ***
